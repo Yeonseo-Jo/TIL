@@ -7,5 +7,10 @@
 * [reduce 메서드](https://github.com/Yeonseo-Jo/TIL/blob/main/JS/Array.prototype.reduce().md)
 
 ## 🗂 **React**
+#### ▶︎ 📁 Concept : 개념 관련 TIL
+* [리액트에서 props dirlling 해결 방법](https://github.com/Yeonseo-Jo/TIL/blob/main/React/Concept/propsDrilling.md)
 #### ▶︎ 📁 Function : 기능 구현 관련 TIL
 * [리액트에서의 input 한국어 글자 수 제한과 실시간 글자 수 표시](https://github.com/Yeonseo-Jo/TIL/blob/main/React/Function/InputCountingofKorean.md)
+
+## 🗂 **Web**
+* [웹 최적화](https://github.com/Yeonseo-Jo/TIL/blob/main/Web/webOptimization.md)
