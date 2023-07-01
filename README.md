@@ -19,6 +19,8 @@
 
 ## 🗂 **TS**
 * [useRef의 3가지 정의에 따른 반환 type 비교](https://github.com/Yeonseo-Jo/TIL/tree/main/TS)
+* [TS에서 module, import/export, declare의 의미](https://github.com/Yeonseo-Jo/TIL/blob/main/TS/moduleImportExportDeclare.md)
+* [TypeScript에서 Element 및 Event 타입 위계](https://github.com/Yeonseo-Jo/TIL/blob/main/TS/HierarchyofElementAndEventTyp.md)
 <br/>
 
 ## 🗂 **Web**
