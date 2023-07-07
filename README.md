@@ -4,6 +4,10 @@
 * [안드로이드 웹 뷰에서의 maxLength 문제](https://github.com/Yeonseo-Jo/TIL/blob/main/Error/maxLengthErrorInAndroid.md)
 <br/>
 
+## 🗂 **HTML**
+* [`<br/>` 태그 사용 시 접근성 고려사항](https://github.com/Yeonseo-Jo/TIL/blob/main/HTML/brTag.md)
+<br/>
+
 ## 🗂 **JS**
 * [reduce() 메서드](https://github.com/Yeonseo-Jo/TIL/blob/main/JS/Array.prototype.reduce().md)
 * [at() 메서드](https://github.com/Yeonseo-Jo/TIL/blob/main/JS/Array.prototype.at().md)
@@ -15,6 +19,7 @@
 * [React Query vs SWR](https://github.com/Yeonseo-Jo/TIL/blob/main/React/Concept/ReactQueryvsSWR.md)
 #### ▶︎ 📁 Function : 기능 구현 관련 TIL
 * [리액트에서의 input 한국어 글자 수 제한과 실시간 글자 수 표시](https://github.com/Yeonseo-Jo/TIL/blob/main/React/Function/InputCountingofKorean.md)
+* [리액트의 캐러셀 라이브러리 비교 : react-slick vs Swiper](https://github.com/Yeonseo-Jo/TIL/blob/main/React/Function/CompareCarouselLibrary.md)
 <br/>
 
 ## 🗂 **TS**
